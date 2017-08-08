@@ -70,6 +70,12 @@
       "@id": "https://iiif.durham.ac.uk/manifests/trifle/collection/index",
       "@type": "sc:Collection",
       "label": "Durham University IIIF Collections"
-    }
+    },
+    {
+      "@id": "http://collectiones.manuscriptorium.com",
+      "@type": "sc:Collection",
+      "label": "Manuscriptorium Collections",
+      "description": "Highlighted Collections"
+      }
   ]
 }
